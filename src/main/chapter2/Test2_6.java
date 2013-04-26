@@ -1,6 +1,7 @@
 package chapter2;
 
 import javax.swing.*;
+
 import java.io.*;
 
 @SuppressWarnings("serial")
@@ -55,4 +56,5 @@ public class Test2_6 extends JTextArea {
 			this.closed = true;
 		}
 	}
+	
 }
